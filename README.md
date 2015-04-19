@@ -12,3 +12,12 @@ This is a test repo
 1. two
 1. three 
 
+
+
+### This is table
+one|two|three
+---|---|---
+penny|nickle|dollar
+top|middle|bottom
+left|center|right
+
